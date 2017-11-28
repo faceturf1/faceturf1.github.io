@@ -1,0 +1,59 @@
+.page_order {
+  color:rgb(213, 156, 58);
+}
+.header {
+  color:#800000;
+  height:80px;
+  font-family: Lobster;
+  text-align:center;
+  width:40%;
+  border:solid;
+  background: -webkit-linear-gradient(#FFFFFF, #a6a6a6); 
+  padding-bottom:40px;
+  margin-bottom:20px;
+  background-image:url"https://i.ytimg.com/vi/E9IZ3_eSppk/maxresdefault.jpg":
+
+  }
+.firstP{
+  font-size:20px;
+ background:url("")
+}
+.bandH{
+  border:solid;
+  background:url("http://www.brcacoustics.com/images/project_schoolsk12_holynames_band%20rm2.jpg")
+}
+.pictures{
+	margin-left:5px;
+}
+nav{
+  text-align:center;
+  padding-bottom:0px;
+}
+nav ul{
+  margin: 0;
+  padding: 0;
+  list-style:none;
+  background-color: #800000;
+}
+nav li {
+  display:inline-block;
+  margin-left:50px;
+  Padding-top:15px;
+  Padding-bottom:7px;
+  position: relative;
+}
+nav a {
+  color:#dbd4d4;
+text-decoration:none;
+text-transform:uppercase;
+  font-size:14px;
+}
+nav a:hover {
+  color:#808080;
+}
+.picturesoverall{
+  display:inline-block;
+}
+.Departments{
+  font-family:Lobster;
+}
