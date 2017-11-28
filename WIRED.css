@@ -1,0 +1,176 @@
+.list {
+  color: Black;
+}
+
+nav{
+ text-align:center;
+ padding-bottom:5px;
+ width: 75%;
+ margin-left: 12.5%;
+}
+
+nav ul {
+ padding-bottom: 6px;
+ list-style:none;
+ background-color:Gray;
+}
+
+nav li {
+ display: inline-block;
+ margin-left: 5%;
+ Padding-top:15px;
+ Padding-bottom:7px;
+ position: relative;
+ right: 6%;
+}
+
+nav a {
+ color: Black;
+text-decoration:none;
+width: 15%;
+text-align: center;
+text-transform:uppercase;
+ font-size:14px;
+}
+nav a:hover {
+ color: Maroon;
+}
+
+.title {
+  width: 40%;
+  margin: 10px 10px 10px 10px;
+  text-align: center; 
+  margin: auto;
+  font-family: "Lobster";
+  color: #aaa;
+  background: -webkit-linear-gradient(Black, Maroon);
+  border: solid;
+  margin: 3% 30%;
+}
+
+.icons {
+  display: inline-block;
+  width: 100%;
+}
+
+.guitars{
+  background: url("http://c8.alamy.com/comp/E83J9P/electric-guitars-in-andys-guitar-shop-in-denmark-street-london-england-E83J9P.jpg");
+  font-family: "Lobster";
+  color: Green;
+  width: 60%;
+  height: 50px;
+  text-align: center;
+  margin: 3% 20%;
+  border: solid;
+  padding: 25px 0px 0px 0px;
+}
+
+.drums{
+  background: url("http://www.drumshoptulsa.com/images/the_drum_shop_drum_wall_q1_2016_1500px.jpg");
+  font-family: "Lobster";
+  color: Orange;
+  width: 60%;
+  height: 50px;
+  text-align: center;
+  margin: 3% 20%;
+  border: solid;
+  padding: 25px 0px 0px 0px;
+}
+
+.singers{
+  background: url("http://www.webcome.bzh/remotemodules/product_presentation/603919/800x600_ce4b454ee383ba7daf95c2e0284b2475.jpeg?rand=1507981553");
+  font-family: "Lobster";
+  color: #000;
+  width: 60%;
+  height: 50px;
+  text-align: center;
+  margin: 3% 20%;
+  border: solid;
+  padding: 25px 0px 0px 0px;
+}
+
+.bass{
+  font-family: "Lobster";
+  color: #000;
+  width: 60%;
+  height: 50px;
+  background: url("http://thehub.musiciansfriend.com/images/lefty/ibanez-sr300-left-handed-bass-guitar-800x247.jpg");
+  text-align: center;
+  margin: 3% 20%;
+  border: solid;
+  padding: 25px 0px 0px 0px;
+}
+
+.sb{
+  font-family: "Lobster";
+  color: LightGray;
+  width: 60%;
+  height: 50px;
+  background: url("https://cdn.instructables.com/FP4/S4E0/GRFMW48T/FP4S4E0GRFMW48T.MEDIUM.jpg");
+  text-align: center;
+  margin: 3% 20%;
+  border: solid;
+  padding: 25px 0px 0px 0px;
+}
+
+.p1{
+  position: relative;
+  border: solid;
+  width: 60%;
+  margin: 3% 20%;
+  padding: 15px;
+  right: 15px;
+  text-align: center;
+  background: White;
+}
+
+.p2{
+  position: relative;
+  border: solid;
+  width: 60%;
+  margin: 3% 20%;
+  padding: 15px;
+  right: 15px;
+  text-align: center;
+  background: White;
+}
+
+.p3{
+  position: relative;
+  border: solid;
+  width: 60%;
+  margin: 3% 20%;
+  padding: 15px;
+  right: 15px;
+  text-align: center;
+  background: White;
+}
+
+.p4{
+  position: relative;
+  border: solid;
+  width: 60%;
+  margin: 3% 20%;
+  padding: 15px;
+  right: 15px;
+  text-align: center;
+  background: White;
+}
+
+.p5{
+  position: relative;
+  border: solid;
+  width: 60%;
+  margin: 3% 20%;
+  padding: 15px;
+  right: 15px;
+  text-align: center;
+  background: White;
+}
+
+li {
+	text-align: left;
+}
+p{
+  font-size:20px;
+}

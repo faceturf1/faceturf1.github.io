@@ -1,0 +1,142 @@
+.list {
+  color: #9200D2;
+}
+
+.title {
+  width: 40%;
+  margin: 10px 10px 10px 10px;
+  text-align: center; 
+  margin: auto;
+  font-family: "Pacifico";
+  color: Black;
+  background: url("http://www.missionresourcing.org.nz/uploads/7/5/2/4/7524531/paint-splatter-wallpaper-8_orig.jpg");
+  border: solid;
+  margin: 3% 30%;
+}
+
+.a1{
+  font-family: "Lobster";
+  color: Red;
+  width: 60%;
+  height: 50px;
+  text-align: center;
+  margin: 3% 20% 0% 20%;
+  border: solid;
+  padding-top: 30px;
+  background-color: DarkRed;
+}
+
+.a2{
+  font-family: "Lobster";
+  color: Lime;
+  width: 60%;
+  height: 50px;
+  text-align: center;
+  margin: 10% 20% 0% 20%;
+  border: solid;
+  padding-top: 30px;
+  background-color: Green;
+}
+
+.a3{
+  font-family: "Lobster";
+  color: DeepSkyBlue;
+  width: 60%;
+  height: 50px;
+  text-align: center;
+  margin: 10% 20% 0% 20%;
+  border: solid;
+  padding-top: 30px;
+  background-color: #0000b3;
+}
+
+.a4{
+  font-family: "Lobster";
+  color: Orange;
+  width: 20%;
+  height: 106px;
+  text-align: center;
+  margin: 10% 40% 0% 40%;
+  border: solid;
+  padding-top: 30px;
+  background: url("https://arteducators-prod.s3.amazonaws.com/image/252/medium.jpg?1453951773");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-color: Orange;
+  }
+
+.p1{
+  font-family: "Lobster";
+  width: 40%;
+  height: 50px;
+  text-align: center;
+  margin: 3% 30%;
+  border: solid;
+  padding-top: 15px;
+  padding-bottom: 30px;
+  }
+  
+.p2{
+  font-family: "Lobster";
+  width: 40%;
+  height: 50px;
+  text-align: center;
+  margin: 3% 30%;
+  border: solid;
+  padding-top: 15px;
+  padding-bottom: 30px;
+  }
+  
+.p3{
+  font-family: "Lobster";
+  width: 40%;
+  height: 50px;
+  text-align: center;
+  margin: 3% 30%;
+  border: solid;
+  padding-top: 15px;
+  padding-bottom: 30px;
+  }
+  
+.p4{
+  font-family: "Lobster";
+  width: 40%;
+  height: 50px;
+  text-align: center;
+  margin: 3% 30%;
+  border: solid;
+  padding: 30px 0px;
+  }
+nav{
+ text-align:center;
+ padding-bottom:5px;
+ width: 75%;
+ margin-left: 12.5%;
+}
+
+nav ul {
+ padding-bottom: 6px;
+ list-style:none;
+ background-color:Gray;
+}
+
+nav li {
+ display: inline-block;
+ margin-left: 5%;
+ Padding-top:15px;
+ Padding-bottom:7px;
+ position: relative;
+ right: 50px;
+}
+
+nav a {
+ color: Black;
+text-decoration:none;
+width: 15%;
+text-align: center;
+text-transform:uppercase;
+ font-size:14px;
+}
+nav a:hover {
+ color: Maroon;
+}
